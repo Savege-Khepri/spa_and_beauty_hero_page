@@ -3,40 +3,36 @@
 </h1>
 
 
-📱 Características Responsive
+# Encabezado de la página web Glow Queen 💄✨
 
-Typemaster está diseñado para adaptarse a una variedad de tamaños de pantalla, incluyendo:
+¡Hola! este es el repositorio del encabezado de la página web Glow Queen, un proyecto ficticio de cuidado de la piel y belleza.
 
-Móviles (≤ 418px): El diseño se ajusta para proporcionar una experiencia óptima en dispositivos móviles, asegurando que el contenido sea legible y fácil de navegar en pantallas pequeñas.
+## Descripción 📝
 
-<div align="center">
-  <img src="/img/landing-mobile.png/" alt="Banner"/>
-</div>
+El encabezado de la página web Glow Queen está diseñado para pantallas con un ancho de 1200px. Incluye elementos como el logotipo de la marca, el menú de navegación, opciones de acceso y registro, y otras funcionalidades importantes para la navegación y la interacción con el sitio.
 
+## Vista previa en vivo 🌟
 
-<p align="center">
-   <a href="src/">
-      <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
-   </a>
+Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/Projectos-CSS-1-Business-Agency.png)
+<p align="center">   
+   [![Static Badge](https://img.shields.io/badge/Ver%20Codigo%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB)](/src/)
 </p>
 
----
 
-Tablets (≤ 768px): La interfaz se adapta para aprovechar mejor el espacio disponible en tablets, manteniendo la usabilidad y la estética del sitio.
+## Uso 🚀
 
-<div align="center">
-  <img src="/img/landing-tablet.png/" alt="Banner"/>
-</div>
+¡Puedes utilizar este código como parte de tu proyecto web! Simplemente copia y pega el HTML y CSS correspondientes en tus archivos para integrar el encabezado en tu página web.
 
-<p align="center">
-   <a href="src/">
-      <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
-   </a>
-</p>
+## Contribuciones 🤝
 
----
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia de mejora, ¡por favor abre un problema o envía una solicitud de extracción!
 
-Desktops (≤ 1200px): El diseño se escala para proporcionar una experiencia cómoda en pantallas más grandes, asegurando que el contenido se distribuya de manera eficiente sin sacrificar la estética.
+## Trabajo Freelance 💼
+
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
+<br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:santiagodcm7326@gmail.com)
+sin sacrificar la estética.
 
 <div align="center">
   <img src="/img/landing-desktop.png/" alt="Banner"/>
