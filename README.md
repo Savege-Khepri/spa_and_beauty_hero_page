@@ -14,9 +14,18 @@ El encabezado de la página web Glow Queen está diseñado para pantallas con un
 ## Vista previa en vivo 🌟
 
 Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/Projectos-CSS-1-Business-Agency.png)
-<p align="center">   
-   [![Static Badge](https://img.shields.io/badge/Ver%20Codigo%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB)](/src/)
+
+<p align="center">
+   <a href="src/">
+      <img src="https://img.shields.io/badge/Ver%20Codigo%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB" alt="badge">
+   </a>
+   
+   <a href="https://savege-khepri.github.io/spa_and_beauty_hero_page/">
+      <img src="https://img.shields.io/badge/Ver%20Vista%20Previa%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB" alt="badge">
+   </a>
 </p>
+
+
 
 
 ## Uso 🚀
@@ -31,27 +40,5 @@ Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/Projectos-CSS
 
 Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
 <br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:santiagodcm7326@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=santiagodm7326%40gmail.com&labelColor=black&color=%23EA4335)](mailto:santiagodcm7326@gmail.com)
 sin sacrificar la estética.
-
-<div align="center">
-  <img src="/img/landing-desktop.png/" alt="Banner"/>
-</div>
-
-<p align="center">
-   <a href="src/">
-      <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
-   </a>
-</p>
-
-
-## Contribuciones 🤝
-
-¡Las contribuciones son bienvenidas! Si encuentras problemas, tienes ideas para mejoras o deseas agregar nuevas características, por favor abre un problema o una solicitud de extracción.
-
-
-## Trabajo Freelance 💼
-
-Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
-<br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
